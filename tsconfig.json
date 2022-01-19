@@ -2,6 +2,7 @@
 	"compilerOptions": {
 		"target": "esnext",
 		"watch": true,
-		"strict": true
-	}
+		"strict": true,
+		"experimentalDecorators": true
+	},
 }

@@ -11,3 +11,5 @@ let dennis: User = {
 };
 dennis.subscription = "default";
 console.log(dennis);
+
+export { };

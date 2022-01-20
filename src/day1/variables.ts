@@ -26,3 +26,5 @@ class Player<T>{
 
 const I_Like_Cats__ = new Player("MVP++")
 const de_grote = new Player(201)
+
+export { };

@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "nodemon": "^2.0.15"
-  }
+	"dependencies": {
+		"nodemon": "^2.0.15"
+	},
+	"devDependencies": {
+		"jest": "^27.5.1"
+	},
+	"scripts": {
+		"test": "jest --watchAll --verbose"
+	}
 }

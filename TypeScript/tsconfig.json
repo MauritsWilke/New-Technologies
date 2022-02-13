@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"watch": true,
+		"strict": true,
+		"experimentalDecorators": true,
+		"noImplicitReturns": true,
+		"noImplicitAny": false,
+		"outDir": "dist"
+	},
+	"ts-node": {
+		"events": {
+			"start": "cls"
+		},
+		"quiet": true
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
